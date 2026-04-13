@@ -1,5 +1,7 @@
 # 思维拆解 Skill · Debate Thinking Distiller
 
+> Created by **赛博小熊猫Loki**
+
 蒸馏辩论结构背后的认知操作序列。
 
 底层是广义思维方式，载体是辩论逻辑。不蒸馏谁，蒸馏在压力下思考这件事本身。
@@ -40,7 +42,6 @@
 - 黄执中《好好说话》系列 — 动机提问法、利他沟通、将是非题转化为选择题
 - 梁秋阳《深度说服：超级辩手的四堂思辨表达课》— 观点思维，不带观点的思考都是无效思考
 - 胡渐彪《青少年思辨课》— 30个可操作的思维方式，强调思辨力的日常应用
-- 詹青云《趁着年轻，我偏要勉强》— 破题与重构、存在主义视角、个体叙事权
 - 詹青云《像律师一样思考》— 法律思维在日常论证中的应用
 
 ### 思维模型与认知科学
@@ -59,4 +60,10 @@
 
 ## License
 
-MIT
+MIT License
+
+Copyright (c) 2026 赛博小熊猫Loki
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
